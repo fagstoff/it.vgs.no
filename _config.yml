@@ -1,0 +1,21 @@
+markdown: kramdown
+#RM: får ikke pygments til å virke på min maskin, bytter til rouge
+highlighter: rouge
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+#google_analytics_id: UA-XXXXXXXX-X
+
+repository: https://github.com/fagstoff/it-vgs-no
+help_url: https://github.com/jekyll/jekyll-help
+
+collections:
+  docs:
+    output: true
+
+name: IT.VGS • Læremidler for informasjonsteknologifaget
+description: Frie læremidler for informasjonsteknologifaget i videregående opplæring
+url: http://it.vgs.no
+
+gems:
+  - jekyll-feed
