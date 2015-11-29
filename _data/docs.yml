@@ -1,0 +1,20 @@
+- title: Fagstoff
+  docs:
+  - home
+  - fagstoff/eksempel-1
+  - fagstoff/eksempel-2
+
+- title: Oppgaver
+  docs:
+  - oppgaver/eksempel-1
+  - oppgaver/eksempel-2
+
+- title: Nyttige verktøy
+  docs:
+  - verktoy/eksempel-1
+  - verktoy/eksempel-2
+
+- title: Meta
+  docs:
+  - contributing
+  - history
