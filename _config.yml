@@ -6,6 +6,7 @@ excerpt_separator: ""
 #google_analytics_id: UA-XXXXXXXX-X
 
 repository: https://github.com/fagstoff/it.vgs.no
+edit_url_base: https://github.com/fagstoff/it.vgs.no/blob/master/
 help_url: https://github.com/jekyll/jekyll-help
 
 collections:
