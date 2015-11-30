@@ -10,6 +10,37 @@ Dette nettstedet tilbyr frie læremidler i informasjonsteknologifagene IT1 og IT
 
 I fag- og oppgavetekstene finner du mange små men nyttige informasjonsbiter som kan gjøre det enklere for deg å lære deg fagstoffet. Her er hva du bør se etter.
 
+Programkode skrives slik:
+
+```SQL
+SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
+```
+
+```HTML
+<html>
+  <head>
+    <title>Hallo verden</title>
+  </head>
+  <body>
+    <p>Hallo verden, her er jeg!</p>
+  </body>
+</html>
+```
+
+```JS
+var hallo = function() {
+  //Dette er en kommentar
+  return "Hallo verden!";
+}
+```
+
+```PHP
+<?php
+/* Dette er en kommentar */
+echo 'Hallo verden!';
+?>
+```
+
 <div class="note">
   <h5>ProTips™ help you get more from Jekyll</h5>
   <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
@@ -20,10 +51,6 @@ I fag- og oppgavetekstene finner du mange små men nyttige informasjonsbiter som
   <p>These are for the extra tidbits sometimes necessary to understand
      Jekyll.</p>
 </div>
-
-```SQL
-SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
-```
 
 <div class="note warning">
   <h5>Warnings help you not blow things up</h5>
