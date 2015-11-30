@@ -1,6 +1,5 @@
 markdown: kramdown
-#RM: får ikke pygments til å virke på min maskin, bytter til rouge
-highlighter: rouge
+highlighter: pygments
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: ""
 
