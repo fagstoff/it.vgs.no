@@ -21,6 +21,10 @@ I fag- og oppgavetekstene finner du mange små men nyttige informasjonsbiter som
      Jekyll.</p>
 </div>
 
+```SQL
+SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
+```
+
 <div class="note warning">
   <h5>Warnings help you not blow things up</h5>
   <p>Be aware of these messages if you wish to avoid certain death.</p>
