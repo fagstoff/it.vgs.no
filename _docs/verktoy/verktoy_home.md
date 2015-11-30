@@ -1,12 +1,12 @@
 ---
 layout: docs
 title: Velkommen
-permalink: /docs/fagstoff/verktoy_home
+permalink: /docs/verktoy/verktoy_home
 ---
 
 Dette nettstedet tilbyr frie læremidler i informasjonsteknologifagene IT1 og IT2 i videregående skole. Her finner du både gode fagtekster, oppgaver og tips om nyttige verktøy.
 
-## Slik bruker du læremidlene
+## Slik bruker du verktøyene
 
 I fag- og oppgavetekstene finner du mange små men nyttige informasjonsbiter som kan gjøre det enklere for deg å lære deg fagstoffet. Her er hva du bør se etter.
 
