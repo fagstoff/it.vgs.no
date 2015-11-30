@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Hallo verden!
+title: Eksempel 3
 permalink: /docs/fagstoff/eksempel-3/
 ---
 

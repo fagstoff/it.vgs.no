@@ -1,16 +1,19 @@
 - title: Fagstoff
   docs:
-  - home
+  - Start
   - fagstoff/eksempel-1
   - fagstoff/eksempel-2
+  - fagstoff/eksempel-3
 
 - title: Oppgaver
   docs:
+  - Start
   - oppgaver/eksempel-1
   - oppgaver/eksempel-2
 
 - title: Nyttige verktøy
   docs:
+  - Start
   - verktoy/eksempel-1
   - verktoy/eksempel-2
 
