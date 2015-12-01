@@ -26,9 +26,9 @@ Og til slutt, hvis du ønsker å skrive rett på skjermen i html-dokumentet kan 
 SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
 ```
 
-{% highlight js %}
+``` javascript
 	document.write("Hallo verden!");
-{% endhighlight %}
+```
 
 Vi har nå laget vårt første program, og har tatt våre første skritt inn i en fantastisk verden!
 

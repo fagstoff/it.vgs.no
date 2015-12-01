@@ -4,7 +4,8 @@ title: Velkommen
 permalink: /docs/home/
 ---
 
-Dette nettstedet tilbyr frie læremidler i informasjonsteknologifagene IT1 og IT2 i videregående skole. Her finner du både gode fagtekster, oppgaver og tips om nyttige verktøy.
+Startside for læremidler
+
 
 ## Slik bruker du læremidlene
 

@@ -4,7 +4,7 @@ title: Velkommen
 permalink: /docs/verktoy/verktoy_home
 ---
 
-Dette nettstedet tilbyr frie læremidler i informasjonsteknologifagene IT1 og IT2 i videregående skole. Her finner du både gode fagtekster, oppgaver og tips om nyttige verktøy.
+Startsiden for verktøysidene
 
 ## Slik bruker du verktøyene
 

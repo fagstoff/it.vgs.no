@@ -4,7 +4,7 @@ title: Velkommen
 permalink: /docs/oppgaver/oppgaver_home
 ---
 
-Dette nettstedet tilbyr frie læremidler i informasjonsteknologifagene IT1 og IT2 i videregående skole. Her finner du både gode fagtekster, oppgaver og tips om nyttige verktøy.
+Startsiden for oppgaver
 
 ## Slik bruker du oppgavene
 
