@@ -1,17 +1,18 @@
-- title: Fagstoff
+- title: Programmering
   docs:
   - Start
-  - fagstoff/eksempel-1
-  - fagstoff/eksempel-2
-  - fagstoff/eksempel-3
+  - fagstoff/programmering/01-forViStarter
+  - fagstoff/programmering/02-halloVerden
+  - fagstoff/programmering/03-variabler
+  - fagstoff/programmering/04-hendelserinnerHTML
 
-- title: Oppgaver
+- title: Multimedieutvikling
   docs:
   - Start
-  - oppgaver/eksempel-1
+  - oppgaver/01HalloVerdenV2
   - oppgaver/eksempel-2
 
-- title: Nyttige verktøy
+- title: Planlegging og dokumentasjon
   docs:
   - Start
   - verktoy/eksempel-1
