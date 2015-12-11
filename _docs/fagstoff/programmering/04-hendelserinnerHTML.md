@@ -4,7 +4,6 @@ title: Hendelser og innerHTML
 permalink: /docs/fagstoff/programmering/04-hendelserinnerHTML/
 ---
 
-
 Hendelser
 ---------
 I de aller fleste programmer ønsker man en interaktivitet mellom bruker og program. Dette kan for eksempel være at noe skjer når man trykker på en knapp. I HTML så finnes det mange ulike hendelsesatrubutter, men felles for dem alle er at de kjører en funksjon når ønsket hendelse skjer. I dette kurset kommer vi for det aller meste til å bruke hendelsesatributten "onclick". Denne kjører en valgfri funksjon når brukeren trykker på en knapp.
