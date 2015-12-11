@@ -32,9 +32,9 @@ SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
 
 Vi har nå laget vårt første program, og har tatt våre første skritt inn i en fantastisk verden!
 
-Dette er en matematikkformel $$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+Dette er en matematikkformel $$x=\frac{-b \pm \sqrt{-b^2-4ac}}{2a}$$
 
-I den første delen av denne boka kommer vi til å bruke kommandoen console.log  for å skrive ut de resultatene \\( x=\frac{-b \pm \sqrt{b^2-4ac}}{2a} \\) vi ønsker å vise. Deretter vil programmene vi lager få mer grafisk brukergrensesnitt og innhold.
+I den første delen av denne boka kommer vi til å bruke kommandoen console.log  for å skrive ut de resultatene vi ønsker å vise. Deretter vil programmene vi lager få mer grafisk brukergrensesnitt og innhold.
 
 <div class="note warning">
   <h5>Viktig</h5>
