@@ -1,5 +1,7 @@
 #gem install redcarpet
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: pygments
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: ""
