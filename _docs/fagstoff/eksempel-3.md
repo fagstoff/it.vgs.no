@@ -4,6 +4,20 @@ title: Eksempel 3
 permalink: /docs/fagstoff/eksempel-3/
 ---
 
+Her er en innholdsliste for denne siden:
+
+* auto-gen TOC:
+{:toc}
+
+
+## Haha
+Dette er et morsomt avsnitt.
+
+### Hoho
+Slik sier nissen det.
+
+## Er du klar?
+
 Er du klar til å lage ditt første program?     ...så bra!
 
 I god gammel programmeringstradisjon  skal vi kalle vår første program "Hallo verden". Dette er den vanligste måten å bli kjent med et nytt programmeringsspråk. Programmet vi lager skal skrive teksten "Hallo verden!" ut på skjermen på tre forskjellige måter. Kodene skrives i et dokumentet script.js som legges i samme mappe som index.html med eksempelet fra [Før vi starter]({{site.baseurl}}/docs/prepost).
@@ -41,8 +55,8 @@ I den første delen av denne boka kommer vi til å bruke kommandoen console.log 
   <p>Før du går videre bør du kunne lage "Hallo verden!" på egenhånd uten hjelp.</p>
 </div>
 
-Legge inn og slette rader i en tabell
-=====================================
+## Legge inn og slette rader i en tabell
+
 **Nå skal vi se på hvordan vi kan legge inn nye rader i en tabell, og hvordan vi kan slette rader.**
 
 La oss fylle tabellen `Lagerbeholdning` med litt innhold:
