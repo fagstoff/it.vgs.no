@@ -40,3 +40,36 @@ I den første delen av denne boka kommer vi til å bruke kommandoen console.log 
   <h5>Viktig</h5>
   <p>Før du går videre bør du kunne lage "Hallo verden!" på egenhånd uten hjelp.</p>
 </div>
+
+Legge inn og slette rader i en tabell
+=====================================
+**Nå skal vi se på hvordan vi kan legge inn nye rader i en tabell, og hvordan vi kan slette rader.**
+
+La oss fylle tabellen `Lagerbeholdning` med litt innhold:
+
+``` sql
+INSERT INTO Lagerbeholdning VALUES ('Salatblader Crispi', 8376);
+INSERT INTO Lagerbeholdning VALUES ('Grove burgerbrød Bakerverkstedet', 344);
+INSERT INTO Lagerbeholdning VALUES ('Ketchup-poser Edda', 540);
+```
+
+La oss si at vi tar ut en ketchup-pose fra lageret. Da må vi oppdatere lagerbeholdningen, antall ketchup-poser må reduseres med en. Det kan vi gjøre slik:
+
+``` sql
+UPDATE Lagerbeholdning SET Beholdning = Beholdning - 1 WHERE Varenavn = 'Ketchup-poser Edda';
+```
+
+Vi kan også slette rader i tabellen:
+
+``` SQL
+DELETE FROM Lagerbeholdning WHERE Varenavn = 'Salatblader Crispi';
+```
+Her sletter vi kun den raden i tabellen som har varenavnet `Salatblader Crispi`, alle rader som har et annet varenavn er ikke berørt.
+
+**TODO** Velge fra en tabell og sette inn i en annen:
+
+``` sql
+INSERT INTO Superburgersalg (Antall, Dato) SELECT Salg (Antall, Dato) WHERE Menynavn = 'Superburger';
+```
+
+**TODO** Forklare NULL
