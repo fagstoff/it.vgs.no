@@ -1,8 +1,3 @@
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-#highlighter: pygments
-
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -28,7 +23,7 @@ name: IT.VGS • Læremidler for informasjonsteknologifaget
 description: Frie læremidler for informasjonsteknologifaget i videregående opplæring
 #venter med å legge inn url til sidene skal rulles ut
 #url: http://it.vgs.no
-baseurl: /test
+baseurl: /it2
 
 gems:
   - jekyll-feed
